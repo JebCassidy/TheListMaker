@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TheListMaker</string>
+    <string name="list_intent_key">listKey</string>
+    <string name="purpose_intent_key">purposeKey</string>
+    <string name="purpose_add">add</string>
+    <string name="purpose_update">update</string>
+    <string name="position_intent_key">positionKey</string>
+
+    <!--preference strings-->
+    <string name="preference_storage_name">app_preferences</string>
+    <string name="bg_color_theme">bg theme</string>
+
+
+    <!--theme colors strings-->
+    <string name="bg_theme_classic">classic</string>
+    <string name="bg_theme_dark">dark</string>
+    <string name="bg_theme_light">light</string>
+
+    <string name="color_teal">teal</string>
+    <string name="color_gray">gray</string>
+    <string name="color_white">white</string>
+    <string name="color_black">black</string>
+</resources>
